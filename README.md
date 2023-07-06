@@ -41,5 +41,9 @@ Make sure to deploy the output of `remix build`
 - `build/`
 - `public/build/`
 
+## API for Search Movies and show list movies
+I used api from themoviedb website to integrate api 
+link the website: https://www.themoviedb.org/
+
 ## Framework for UI
 I used Tailwind Css for UI design
